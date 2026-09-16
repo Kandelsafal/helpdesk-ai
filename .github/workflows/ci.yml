@@ -2,7 +2,7 @@ name : HelpDesk AI CI
 
 on:
   push:
-  branches:
+    branches:
         - main
 
   pull_request:
